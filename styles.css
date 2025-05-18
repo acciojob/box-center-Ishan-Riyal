@@ -2,7 +2,7 @@
       width: 200px;
       height: 200px;
       background-color: lightblue;
-	  border:2px;
+	  border-top:2px;
       border: 2px solid black;
       position: absolute;       
       top: 50%;                
